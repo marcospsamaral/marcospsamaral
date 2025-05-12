@@ -1,7 +1,7 @@
 <h2>Olá, meu nome é Marcos Amaral e adoro programação.</h2>
 
-- 🔭 Atualmente trabalho como <b>Analista de Suporte</b>
-- 🌱 Estudando <b>Java</b>
+- <h4>🔭 Atualmente trabalho como <b>Analista de Suporte</b></h4>
+- <h4>🌱 Estudando <b>Java</b></h4>
 
 <div style="display: grid"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,5 +12,7 @@
   
   <hr>
   
-  ![Status GitHub Marcos](https://github-readme-stats.vercel.app/api?username=marcospsamaral&show_icons=true&theme=github_dark)
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=marcospsamaral&show_icons=true&theme=github_dark&custom_title=Status+GitHub+Marcos&locale=pt-br">
+  
+  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsamaral&hide_progress=false&&show_icons=true&theme=github_dark&locale=pt-br">
 </div>
