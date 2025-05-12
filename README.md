@@ -1,7 +1,7 @@
 <h2>Olá, meu nome é Marcos Amaral e adoro programação.</h2>
 
-- 🔭 Atualmente trabalho como <b>Analista de Suporte</b>
-- 🌱 Estudando <b>Java</b>
+- <h4>🔭 Atualmente trabalho como <b>Analista de Suporte</b></h4>
+- <h4>🌱 Estudando <b>Java</b></h4>
 
 <div style="display: grid"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
