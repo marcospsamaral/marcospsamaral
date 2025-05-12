@@ -9,7 +9,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+
   <hr>
 
   <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=marcospsamaral&show_icons=true&theme=github_dark&custom_title=Status+GitHub+Marcos&locale=pt-br">
