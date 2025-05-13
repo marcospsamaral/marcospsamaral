@@ -14,5 +14,5 @@
 
   <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=marcospsamaral&show_icons=true&theme=github_dark&custom_title=Status+GitHub+Marcos&locale=pt-br">
 
-  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsamaral&hide_progress=false&&show_icons=true&theme=github_dark&locale=pt-br">
+  <img height=200 width=280 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsamaral&hide_progress=false&&show_icons=true&theme=github_dark&locale=pt-br">
 </div>
