@@ -23,8 +23,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcospsamaral&show_icons=true&theme=tokyonight&locale=pt-br" alt="Marcos's GitHub Stats" width="48%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsamaral&layout=compact&theme=tokyonight&locale=pt-br" alt="Top Languages" width="48%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcospsamaral&show_icons=true&theme=tokyonight&locale=pt-br" alt="Marcos's GitHub Stats" width="38%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsamaral&layout=compact&theme=tokyonight&locale=pt-br" alt="Top Languages" width="38%" height="200px" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ### 📬 Contato
 
-Entre em contato comigo em [marcospsamaral@gmail.com](mailto:marcos.amaral0425@gmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/marcos-amarall/).
+Entre em contato comigo em [marcos.amaral0425@gmail.com](mailto:marcos.amaral0425@gmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/marcos-amarall/).
 
 ---
 
