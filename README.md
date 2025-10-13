@@ -12,6 +12,7 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/cshap-purple?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,7 +25,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcospsamaral&show_icons=true&theme=tokyonight&locale=pt-br" alt="Marcos's GitHub Stats" width="40%" height=200 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsamaral&layout=compact&theme=tokyonight&locale=pt-br" alt="Top Languages" width="40%" height=215 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsamaral&layout=compact&theme=tokyonight&locale=pt-br" alt="Top Languages" width="40%" height=200 />
 </p>
 
 ---
