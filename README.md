@@ -25,7 +25,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=marcospsamaral&show_icons=true&theme=tokyonight&locale=pt-br" alt="Marcos's GitHub Stats" width="40%" height=150 margin=0 padding=0 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsamaral&layout=compact&theme=tokyonight&locale=pt-br" alt="Top Languages" width="100%" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsamaral&layout=compact&theme=tokyonight&locale=pt-br" alt="Top Languages" width="min-content" height=150 />
 </p>
 
 ---
